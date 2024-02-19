@@ -1,0 +1,21 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[Annotations]
+annotationToolType=5
+
+[General]
+onLaunchAction=UseLastUsedCapturemode
+
+[GuiConfig]
+includeDecorations=false
+transientOnly=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///mnt/SDA2/My-PKM-copy/Resources/📁 Files/Random Video/Obsidian Thorium catppuccin.webp,file:$HOME/Desktop/Website image.webp,file:///mnt/SDA2/My-PKM-copy/Resources/📁 Files/📸Images/NOVA.webp,file:///mnt/SDA2/My-PKM-copy/Resources/📁 Files/📸Images/User images.webp,file:///mnt/SDA2/My-PKM-copy/Resources/📁 Files/📸Images/Your Time.webp,file:///mnt/SDA2/My-PKM-copy/Resources/📁 Files/📸Images/Simplepass.webp,file:///mnt/SDA2/My-PKM-copy/Resources/📁 Files/📸Images/graph view 15-12-2023.webp,file:///mnt/SDA2/My-PKM-copy/Resources/📁 Files/📸Images/BrainAxe.webp,file:///mnt/SDA2/My-PKM-copy/Resources/📁 Files/Random Video/Catppuccin theme.webp,file:///mnt/SDA2/My-PKM-copy/Resources/How SEO is Destroying the Internet/analytics events.webp,file:///mnt/SDA2/My-PKM-copy/Resources/How SEO is Destroying the Internet/analytics 1.webp,file:///mnt/SDA2/My-PKM-copy/Resources/How SEO is Destroying the Internet/insurance search.webp,file:///mnt/SDA2/My-PKM-copy/Resources/How SEO is Destroying the Internet/shopping results.webp,file:///mnt/SDA2/My-PKM-copy/Resources/How SEO is Destroying the Internet/search result shopping images.webp,file:///mnt/MINE/backup/Projects/Mohak Herbs/Product label ideas/Screenshot_20230905_192049.webp
+Recent URLs[$e]=file:$HOME/Desktop/,file:///mnt/SDA2/My-PKM-copy/Resources/How SEO is Destroying the Internet/,file:///mnt/SDA2/My-PKM-copy/Resources/📁 Files/Random Video/,file:///mnt/SDA2/My-PKM-copy/Resources/📁 Files/,file:///mnt/SDA2/My-PKM-copy/Resources/📁 Files/📸Images/,file:///mnt/SDA2/My-PKM-copy/Resources/,file:///mnt/SDA2/My-PKM-copy/,file:///mnt/SDA2/,file:$HOME/,file:$HOME/Documents/
+iconViewIconSize=64
+
+[Save]
+lastSaveAsLocation=file:///home/exia/Desktop/Website image.webp
+lastSaveLocation=file:///home/exia/Desktop/Website image.webp

@@ -1,0 +1,14 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+LockGrace=60
+Timeout=20
+
+[Greeter]
+WallpaperPlugin=org.kde.image
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/usr/share/wallpapers/garuda-wallpapers/Wave.png
+PreviewImage=/usr/share/wallpapers/garuda-wallpapers/Wave.png
+SlidePaths=/home/exia/.local/share/wallpapers/,/usr/share/wallpapers/

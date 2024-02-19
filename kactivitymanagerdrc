@@ -1,0 +1,10 @@
+[activities]
+a212a71b-da02-4b31-b749-af82419fb6e9=MAIN
+
+[activities-icons]
+a212a71b-da02-4b31-b749-af82419fb6e9=distributor-logo-garudalinux
+
+[main]
+currentActivity=a212a71b-da02-4b31-b749-af82419fb6e9
+runningActivities=a212a71b-da02-4b31-b749-af82419fb6e9
+stoppedActivities=

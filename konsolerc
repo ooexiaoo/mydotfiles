@@ -1,0 +1,28 @@
+[Desktop Entry]
+DefaultProfile=Garuda.profile
+
+[General]
+ConfigVersion=1
+
+[KFileDialog Settings]
+Recent Files[$e]=wallhaven-83ylpy.png,file:///mnt/MINE/wallpapers/Jabami pink.png,file:///mnt/MINE/wallpapers/pink.png,file:///mnt/MINE/wallpapers/kuvsnov ilya vaporwave.webp,file:///mnt/MINE/wallpapers/pink anime girl scene.webp,file:///mnt/MINE/wallpapers/Abstract lava pink.png,file:///mnt/MINE/wallpapers/Pink BG anime girl.jpg,file:///mnt/MINE/wallpapers/Arch Linux.png,file:///mnt/MINE/wallpapers/wallhaven-83ylpy.png
+Recent URLs[$e]=file:///mnt/MINE/wallpapers/,file:$HOME/Documents/,file:$HOME/,file:///mnt/MINE/
+iconViewIconSize=256
+
+[KonsoleWindow]
+RememberWindowSize=false
+ShowMenuBarByDefault=false
+
+[MainWindow]
+1920x1080 screen: Height=562
+1920x1080 screen: Width=1003
+1920x1080 screen: XPosition=912
+1920x1080 screen: YPosition=49
+LVDS-1=LVDS-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAWMA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABAQD///8AAAPwAAACLQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAMAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAAAAAH7AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+
+[UiSettings]
+ColorScheme=Utterly-Sweet

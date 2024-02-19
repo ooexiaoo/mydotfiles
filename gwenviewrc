@@ -1,0 +1,40 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+1920x1080 screen: Height=990
+1920x1080 screen: Width=1910
+1920x1080 screen: XPosition=5
+1920x1080 screen: YPosition=85
+LVDS-1=LVDS-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB3YAAAO0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/screenshot.png
+File10[$e]=/mnt/SDA2/My-PKM-copy/Resources/📁 Files/📸Images/sailormoon.ico
+File2[$e]=$HOME/Desktop/My Time.png
+File3[$e]=/mnt/MINE/backup/Projects/Random Projects/kawaiidoro/img/lofichill.jpeg
+File4[$e]=/mnt/MINE/backup/Projects/Random Projects/kawaiidoro/img/Not used wallpapers/girlflowers2.webp
+File5[$e]=/mnt/MINE/backup/Projects/Random Projects/kawaiidoro/img/pxfuel(7).jpg
+File6[$e]=/mnt/MINE/backup/Projects/Random Projects/kawaiidoro/Web/cat.png
+File7[$e]=/mnt/MINE/backup/Projects/Random Projects/kawaiidoro/Web/cat.webp
+File8[$e]=/mnt/MINE/backup/Projects/Mohak Herbs/Product Images/kumkumadi oil.png
+File9[$e]=$HOME/Desktop/code.png
+Name1[$e]=screenshot.png
+Name10[$e]=sailormoon.ico
+Name2[$e]=My Time.png
+Name3[$e]=lofichill.jpeg
+Name4[$e]=girlflowers2.webp
+Name5[$e]=pxfuel(7).jpg
+Name6[$e]=cat.png
+Name7[$e]=cat.webp
+Name8[$e]=kumkumadi oil.png
+Name9[$e]=code.png
+
+[SideBar]
+InformationSplitterSizes=217,240

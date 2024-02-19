@@ -1,0 +1,18 @@
+[2023-10-31 14:17:06.275] [info]  Checking for update
+[2023-10-31 14:17:08.995] [info]  Generated new staging user ID: 4340da59-93d5-57bd-b7c3-66f53c22d689
+[2023-10-31 14:17:12.089] [info]  Update for version 4.4.17 is not available (latest version: 4.4.14, downgrade is disallowed).
+[2023-10-31 14:21:21.545] [info]  Checking for update
+[2023-10-31 17:10:54.180] [info]  Checking for update
+[2023-10-31 17:10:59.135] [info]  Update for version 4.4.17 is not available (latest version: 4.4.14, downgrade is disallowed).
+[2023-10-31 17:46:47.646] [info]  Checking for update
+[2023-10-31 17:46:49.582] [info]  Update for version 4.4.17 is not available (latest version: 4.4.14, downgrade is disallowed).
+[2023-11-13 21:11:59.721] [info]  Checking for update
+[2023-11-13 21:12:04.767] [info]  Found version 4.4.19 (url: linux-Miru-4.4.19.AppImage, linux-Miru-4.4.19.deb)
+[2023-11-13 21:12:04.769] [info]  Downloading update from linux-Miru-4.4.19.AppImage, linux-Miru-4.4.19.deb
+[2023-11-13 21:12:12.241] [info]  File has 277 changed blocks
+[2023-11-13 21:12:12.275] [info]  Full: 103,348.39 KB, To download: 5,674.25 KB (5%)
+[2023-11-13 21:12:12.280] [info]  Differential download: https://github.com/ThaUnknown/miru/releases/download/v4.4.19/linux-Miru-4.4.19.AppImage
+[2023-11-13 21:12:12.592] [info]  Redirect to https://objects.githubusercontent.com/github-production-release-asset-2e65be/288209346/b2e9d04a-a99c-4db3-b813-384832cd4a32
+[2023-11-13 21:12:19.427] [info]  New version 4.4.19 has been downloaded to /home/exia/.cache/miru-updater/pending/linux-Miru-4.4.19.AppImage
+[2023-11-13 21:17:42.412] [info]  Auto install update on quit
+[2023-11-13 21:17:42.414] [info]  Install: isSilent: true, isForceRunAfter: false
