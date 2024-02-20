@@ -5,6 +5,11 @@ FullScreen=false
 LockSidebar=true
 ShowSidebar=false
 
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Desktop/pradhan-mantri-rojgar-yojana-application-form1.pdf,file:$HOME/Desktop/pradhan-mantri-rojgar-yojana-application-form1.pdf
+Recent URLs[$e]=file:$HOME/Desktop/
+iconViewIconSize=64
+
 [MainWindow]
 1920x1080 screen: Height=990
 1920x1080 screen: Width=1910
@@ -12,7 +17,7 @@ ShowSidebar=false
 1920x1080 screen: YPosition=85
 LVDS-1=LVDS-1
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAQAAAAAAAADIAAADuPwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAAuAAADuP////8A///+AAAHdgAAA7QAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADIAAADtPwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAAqAAADtAAAARIA///+AAAHdgAAA4oAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Print Preview]
@@ -20,23 +25,23 @@ ToolBarsMovable=Disabled
 1920x1080 screen: Width=600
 
 [Recent Files]
-File1[$e]=/mnt/SDA3/ETERNUM_0.6-pc/Eternum-0.6.2-pc/WALKTHROUGH 0.6.pdf
-File10[$e]=/mnt/MINE/backup/Projects/Random Projects/CipherGenie/Content/_index.md
-File2[$e]=$HOME/Desktop/Inprinciple_Letter.pdf
-File3[$e]=$HOME/Desktop/_OceanofPDF.com_How_to_Take_Smart_Notes__One_Simple_Techni_-_Sonke_Ahrens.pdf
-File4[$e]=$HOME/Downloads/fish_fillets_manual.pdf
-File5[$e]=$HOME/Desktop/DocScanner Dec 30, 2023 17-54.pdf.pdf
-File6[$e]=$HOME/Desktop/prints.pdf
-File7[$e]=trash:/0-prints.pdf
-File8[$e]=$HOME/Desktop/Print 2.pdf
-File9[$e]=/mnt/MINE/backup/Projects/Random Projects/CipherGenie/Content/moc/_index.md
-Name1[$e]=WALKTHROUGH 0.6.pdf
-Name10[$e]=_index.md
-Name2[$e]=Inprinciple_Letter.pdf
-Name3[$e]=_OceanofPDF.com_How_to_Take_Smart_Notes__One_Simple_Techni_-_Sonke_Ahrens.pdf
-Name4[$e]=fish_fillets_manual.pdf
-Name5[$e]=DocScanner Dec 30, 2023 17-54.pdf.pdf
-Name6[$e]=prints.pdf
-Name7[$e]=0-prints.pdf
-Name8[$e]=Print 2.pdf
+File1[$e]=$HOME/Desktop/Inprinciple_Letter.pdf
+File10[$e]=$HOME/Desktop/pradhan-mantri-rojgar-yojana-application-form.pdf
+File2[$e]=$HOME/Desktop/_OceanofPDF.com_How_to_Take_Smart_Notes__One_Simple_Techni_-_Sonke_Ahrens.pdf
+File3[$e]=$HOME/Downloads/fish_fillets_manual.pdf
+File4[$e]=$HOME/Desktop/DocScanner Dec 30, 2023 17-54.pdf.pdf
+File5[$e]=$HOME/Desktop/prints.pdf
+File6[$e]=trash:/0-prints.pdf
+File7[$e]=$HOME/Desktop/Print 2.pdf
+File8[$e]=/mnt/MINE/backup/Projects/Random Projects/CipherGenie/Content/moc/_index.md
+File9[$e]=/mnt/MINE/backup/Projects/Random Projects/CipherGenie/Content/_index.md
+Name1[$e]=Inprinciple_Letter.pdf
+Name10[$e]=pradhan-mantri-rojgar-yojana-application-form.pdf
+Name2[$e]=_OceanofPDF.com_How_to_Take_Smart_Notes__One_Simple_Techni_-_Sonke_Ahrens.pdf
+Name3[$e]=fish_fillets_manual.pdf
+Name4[$e]=DocScanner Dec 30, 2023 17-54.pdf.pdf
+Name5[$e]=prints.pdf
+Name6[$e]=0-prints.pdf
+Name7[$e]=Print 2.pdf
+Name8[$e]=_index.md
 Name9[$e]=_index.md
