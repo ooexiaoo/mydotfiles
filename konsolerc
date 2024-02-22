@@ -15,8 +15,8 @@ ShowMenuBarByDefault=false
 
 [MainWindow]
 1920x1080 screen: Height=557
-1920x1080 screen: Width=1003
-1920x1080 screen: XPosition=912
+1920x1080 screen: Width=1008
+1920x1080 screen: XPosition=5
 1920x1080 screen: YPosition=518
 LVDS-1=LVDS-1
 MenuBar=Disabled

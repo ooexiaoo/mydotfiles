@@ -304,7 +304,7 @@
        id="lpetool"
        mode="drag"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       unit="pt"
+       unit="px"
        show_bbox="1" />
     <eventcontext
        id="text"
@@ -999,8 +999,8 @@
      id="desktop"
      style="fill:#ffffff;font-size:16px;-inkscape-font-specification:'Potential, Normal';font-family:Potential;fill-opacity:0.99289101">
     <group
-       width="1915"
-       height="1031"
+       width="1910"
+       height="1026"
        x="5"
        y="49"
        maximized="0"
@@ -1118,7 +1118,7 @@
   <group
      id="theme"
      defaultPreferDarkTheme="1"
-     defaultIconTheme="YaruExtendedDark"
+     defaultIconTheme="PlasmaXDark"
      defaultGtkTheme="Sweet-Dark"
      narrowSpinButton="1"
      preferDarkTheme="1"
