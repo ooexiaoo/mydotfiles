@@ -8,8 +8,8 @@ Recent URLs[$e]=file:///mnt/MINE/wallpapers/profile pics/,file:$HOME/,file:///mn
 iconViewIconSize=128
 
 [KPropertiesDialog]
-1920x1080 screen: Height=533
-1920x1080 screen: Width=455
+1920x1080 screen: Height=475
+1920x1080 screen: Width=433
 
 [PlasmaTransientsConfig]
 PreloadWeight=0

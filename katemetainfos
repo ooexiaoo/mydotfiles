@@ -1,3 +1,15 @@
+[file:///home/exia/.bash_history]
+Bookmarks=
+Checksum=72b57344befa05c6de7fccfc71397b722861ec08
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,2,26,12,46,16.037
+URL=file:///home/exia/.bash_history
+
 [file:///home/exia/.config/.gitignore]
 Bookmarks=
 Checksum=cc43ac1ff8a3d9544189a185261de06b82e0579f
@@ -10,6 +22,18 @@ Mode Set By User=false
 Time=2024,2,19,3,38,6.213
 URL=file:///home/exia/.config/.gitignore
 
+[file:///home/exia/.config/kde.org/systemsettings.conf]
+Bookmarks=
+Checksum=d190d8877f82b6855455a604cd797d7e2a5d0cc1
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2024,2,26,12,50,21.967
+URL=file:///home/exia/.config/kde.org/systemsettings.conf
+
 [file:///home/exia/.config/neofetch/config.conf]
 Bookmarks=
 Checksum=5039b582642a270aa5e58db5ef32d87fad4ecc96
@@ -21,6 +45,18 @@ Mode=TOML
 Mode Set By User=false
 Time=2024,2,7,17,3,56.26
 URL=file:///home/exia/.config/neofetch/config.conf
+
+[file:///home/exia/.config/plasma-org.kde.plasma.desktop-appletsrc]
+Bookmarks=
+Checksum=435796fcfd4f4a8b041aee9196da43c9819b4ae1
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,2,26,12,55,14.284
+URL=file:///home/exia/.config/plasma-org.kde.plasma.desktop-appletsrc
 
 [file:///home/exia/Desktop/1goodstuff.txt]
 Bookmarks=
@@ -103,8 +139,32 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Git Ignore
 Mode Set By User=false
-Time=2024,2,19,12,22,33.453
+Time=2024,2,24,10,47,30.591
 URL=file:///mnt/MINE/backup/Projects/Random Projects/React Tutorial/mp-app/.gitignore
+
+[file:///mnt/MINE/backup/Projects/Random Projects/React Tutorial/mp-app/package.json]
+Bookmarks=
+Checksum=60c84d0084854c87b3d616d9239c5417e82d3055
+Encoding=UTF-8
+Highlighting=JSON
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=JSON
+Mode Set By User=false
+Time=2024,2,24,10,47,18.982
+URL=file:///mnt/MINE/backup/Projects/Random Projects/React Tutorial/mp-app/package.json
+
+[file:///mnt/MINE/backup/Projects/Random Projects/kawaiidoro/index.html]
+Bookmarks=
+Checksum=1858afa5d3b03f3cdea33a5d7c09487e4b9ca271
+Encoding=UTF-8
+Highlighting=HTML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=HTML
+Mode Set By User=false
+Time=2024,2,25,15,39,40.926
+URL=file:///mnt/MINE/backup/Projects/Random Projects/kawaiidoro/index.html
 
 [file:///mnt/MINE/backup/Projects/Random Projects/misskey trial/misskey/default.yml/default.yml]
 Bookmarks=
