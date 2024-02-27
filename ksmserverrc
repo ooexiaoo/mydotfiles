@@ -6,22 +6,11 @@ count=0
 
 [Session: saved at previous logout]
 clientId1=10859a8a93000170893631000000015490004
-clientId2=10859a8a93000170894974300000015490012
-clientId3=10859a8a93000170895021500000015490014
-count=3
-discardCommand3[$e]=rm,$HOME/.config/session/dolphin_10859a8a93000170895021500000015490014_1708951359_589568
+count=1
 program1=/usr/bin/garuda-system-maintenance
-program2=/usr/bin/simplescreenrecorder
-program3=/usr/bin/dolphin
-restartCommand1=/usr/bin/garuda-system-maintenance,-session,10859a8a93000170893631000000015490004_1708951359_587926
-restartCommand2=/usr/bin/simplescreenrecorder,-session,10859a8a93000170894974300000015490012_1708949744_99680
-restartCommand3=/usr/bin/dolphin,-session,10859a8a93000170895021500000015490014_1708951359_589568
+restartCommand1=/usr/bin/garuda-system-maintenance,-session,10859a8a93000170893631000000015490004_1708985000_172130
 restartStyleHint1=0
-restartStyleHint2=0
-restartStyleHint3=0
 userId1=exia
-userId2=exia
-userId3=exia
 
 [SubSession: 6f72f745-1cf8-4070-a6a6-772471909735]
 count=0

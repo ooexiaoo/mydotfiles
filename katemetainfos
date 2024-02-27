@@ -84,14 +84,14 @@ URL=file:///home/exia/Desktop/bf6466
 
 [file:///home/exia/Desktop/site.webmanifest]
 Bookmarks=
-Checksum=45dc8a20658bd09ecb8ca1c88f94fe80cc4ca286
+Checksum=1e4db685f496b396f449511f0ae8df849c8a2a11
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2024,2,1,14,45,7.664
+Time=2024,2,27,21,14,7.709
 URL=file:///home/exia/Desktop/site.webmanifest
 
 [file:///home/exia/Desktop/sitemap.xml]
@@ -153,6 +153,18 @@ Mode=JSON
 Mode Set By User=false
 Time=2024,2,24,10,47,18.982
 URL=file:///mnt/MINE/backup/Projects/Random Projects/React Tutorial/mp-app/package.json
+
+[file:///mnt/MINE/backup/Projects/Random Projects/React Tutorial/mp-app/src/App.js]
+Bookmarks=
+Checksum=834988a2e7e38359ed77c815cfa2ede2aaf61616
+Encoding=UTF-8
+Highlighting=JavaScript
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=JavaScript
+Mode Set By User=false
+Time=2024,2,27,11,53,50.306
+URL=file:///mnt/MINE/backup/Projects/Random Projects/React Tutorial/mp-app/src/App.js
 
 [file:///mnt/MINE/backup/Projects/Random Projects/kawaiidoro/index.html]
 Bookmarks=
