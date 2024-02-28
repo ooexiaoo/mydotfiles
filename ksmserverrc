@@ -8,7 +8,7 @@ count=0
 clientId1=10859a8a93000170893631000000015490004
 count=1
 program1=/usr/bin/garuda-system-maintenance
-restartCommand1=/usr/bin/garuda-system-maintenance,-session,10859a8a93000170893631000000015490004_1708985000_172130
+restartCommand1=/usr/bin/garuda-system-maintenance,-session,10859a8a93000170893631000000015490004_1709122770_270880
 restartStyleHint1=0
 userId1=exia
 

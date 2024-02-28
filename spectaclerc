@@ -13,10 +13,10 @@ includeDecorations=false
 transientOnly=true
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Desktop/Screenshot_20240226_170114.png,file:$HOME/Desktop/Screenshot_20240226_170114.png
+Recent Files[$e]=file:$HOME/Desktop/Screenshot_20240228_192024.png,file:$HOME/Desktop/Screenshot_20240228_192921.png,file:$HOME/Desktop/Screenshot_20240228_192413.png
 Recent URLs[$e]=file:$HOME/Desktop/,file:///mnt/SDA2/My-PKM-copy/,file:///mnt/SDA2/,file:$HOME/,file:$HOME/Documents/
 iconViewIconSize=64
 
 [Save]
-lastSaveAsLocation=file:///home/exia/Desktop/Screenshot_20240226_170114.png
-lastSaveLocation=file:///home/exia/Desktop/Screenshot_20240226_170114.png
+lastSaveAsLocation=file:///home/exia/Desktop/Screenshot_20240228_192921.png
+lastSaveLocation=file:///home/exia/Desktop/Screenshot_20240228_192921.png
