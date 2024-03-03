@@ -5,17 +5,12 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=10859a8a93000170922195600000015520004
-clientId2=10859a8a93000170922670400000015520008
-count=2
+clientId1=10859a8a93000170938499600000015560004
+count=1
 program1=/usr/bin/garuda-system-maintenance
-program2=/usr/bin/octopi
-restartCommand1=/usr/bin/garuda-system-maintenance,-session,10859a8a93000170922195600000015520004_1709228690_57070
-restartCommand2=/usr/bin/octopi,-session,10859a8a93000170922670400000015520008_1709228690_63158
+restartCommand1=/usr/bin/garuda-system-maintenance,-session,10859a8a93000170938499600000015560004_1709418908_67159
 restartStyleHint1=0
-restartStyleHint2=0
 userId1=exia
-userId2=exia
 
 [SubSession: 6f72f745-1cf8-4070-a6a6-772471909735]
 count=0

@@ -82,6 +82,18 @@ Mode Set By User=false
 Time=2024,2,4,18,55,57.065
 URL=file:///home/exia/Desktop/bf6466
 
+[file:///home/exia/Desktop/mongosh-2.1.5-linux-x64/README]
+Bookmarks=
+Checksum=855c55294226f665e5ba56fab627514ef6d1190e
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,3,1,18,30,4.221
+URL=file:///home/exia/Desktop/mongosh-2.1.5-linux-x64/README
+
 [file:///home/exia/Desktop/site.webmanifest]
 Bookmarks=
 Checksum=1e4db685f496b396f449511f0ae8df849c8a2a11
@@ -106,17 +118,17 @@ Mode Set By User=false
 Time=2024,2,4,18,57,22.958
 URL=file:///home/exia/Desktop/ss lisa and brother.txt
 
-[file:///mnt/MINE/2023-01-09-22-09-guarda-backup.txt]
+[file:///mnt/MINE/backup/Projects/Random Projects/React Tutorial/inotebook/.gitignore]
 Bookmarks=
-Checksum=d4c51bc9ff9f3559178d47af8ab89f390fb2bab1
+Checksum=04c5395eea34c76ca1145b664e9b7c5c717357b8
 Encoding=UTF-8
-Highlighting=None
+Highlighting=Git Ignore
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=Normal
+Mode=Git Ignore
 Mode Set By User=false
-Time=2024,1,29,17,53,22.125
-URL=file:///mnt/MINE/2023-01-09-22-09-guarda-backup.txt
+Time=2024,3,1,17,58,55.967
+URL=file:///mnt/MINE/backup/Projects/Random Projects/React Tutorial/inotebook/.gitignore
 
 [file:///mnt/MINE/backup/Projects/Random Projects/React Tutorial/mp-app/.gitignore]
 Bookmarks=

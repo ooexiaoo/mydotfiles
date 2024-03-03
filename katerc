@@ -159,7 +159,7 @@ SetEditor=false
 
 [MainWindow]
 1920x1080 screen: Height=1026
-1920x1080 screen: Width=953
+1920x1080 screen: Width=952
 1920x1080 screen: XPosition=962
 1920x1080 screen: YPosition=540
 LVDS-1=LVDS-1

@@ -17,6 +17,8 @@ application/x-extension-shtml=userapp-Floorp-JJFCH2.desktop;
 application/xhtml+xml=userapp-Floorp-JJFCH2.desktop;
 application/x-extension-xhtml=userapp-Floorp-JJFCH2.desktop;
 application/x-extension-xht=userapp-Floorp-JJFCH2.desktop;
+x-scheme-handler/mongodb=MongoDB Compass.desktop;
+x-scheme-handler/mongodb+srv=MongoDB Compass.desktop;
 
 [Default Applications]
 application/x-desktop=com.usebottles.bottles.desktop;
@@ -41,3 +43,5 @@ application/x-extension-shtml=userapp-Floorp-JJFCH2.desktop
 application/xhtml+xml=userapp-Floorp-JJFCH2.desktop
 application/x-extension-xhtml=userapp-Floorp-JJFCH2.desktop
 application/x-extension-xht=userapp-Floorp-JJFCH2.desktop
+x-scheme-handler/mongodb=MongoDB Compass.desktop
+x-scheme-handler/mongodb+srv=MongoDB Compass.desktop
