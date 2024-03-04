@@ -5,10 +5,10 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=10859a8a93000170938499600000015560004
+clientId1=10859a8a93000170947671200000015400004
 count=1
 program1=/usr/bin/garuda-system-maintenance
-restartCommand1=/usr/bin/garuda-system-maintenance,-session,10859a8a93000170938499600000015560004_1709418908_67159
+restartCommand1=/usr/bin/garuda-system-maintenance,-session,10859a8a93000170947671200000015400004_1709495726_599623
 restartStyleHint1=0
 userId1=exia
 
