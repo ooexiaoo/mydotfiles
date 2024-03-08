@@ -12,10 +12,10 @@ includeDecorations=false
 transientOnly=true
 
 [KFileDialog Settings]
-Recent Files[$e]=file:///mnt/SDA2/My-PKM-copy/🛢️ Resources/📁 Files/KawaiiDoro/kawaiidorogirl.png,file:///mnt/SDA2/My-PKM-copy/🛢️ Resources/📁 Files/KawaiiDoro/kawaiidorogirl.png
+Recent Files[$e]=file:$HOME/Desktop/Cat.webp,file:$HOME/Desktop/KawaiiGirl.webp
 Recent URLs[$e]=file:$HOME/Desktop/,file:///mnt/SDA2/My-PKM-copy/,file:///mnt/SDA2/,file:$HOME/,file:$HOME/Documents/,file:///mnt/SDA2/My-PKM-copy/🛢️ Resources/📁 Files/KawaiiDoro/
 iconViewIconSize=64
 
 [Save]
-lastSaveAsLocation=file:///mnt/SDA2/My-PKM-copy/🛢️ Resources/📁 Files/KawaiiDoro/kawaiidorogirl.png
-lastSaveLocation=file:///mnt/SDA2/My-PKM-copy/🛢️ Resources/📁 Files/KawaiiDoro/kawaiidorogirl.png
+lastSaveAsLocation=file:///home/exia/Desktop/KawaiiGirl.webp
+lastSaveLocation=file:///home/exia/Desktop/KawaiiGirl.webp

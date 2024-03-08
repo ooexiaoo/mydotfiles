@@ -3,132 +3,111 @@ update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd
 
 [ColorEffects:Disabled]
 ChangeSelectionColor=
-Color=30, 30, 46
-ColorAmount=0.30000000000000004
-ColorEffect=2
-ContrastAmount=0.1
-ContrastEffect=0
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
 Enable=
-IntensityAmount=-1
-IntensityEffect=0
+IntensityAmount=0.1
+IntensityEffect=2
 
 [ColorEffects:Inactive]
 ChangeSelectionColor=true
-Color=30, 30, 46
-ColorAmount=0.5
-ColorEffect=3
-ContrastAmount=0
-ContrastEffect=0
-Enable=true
+Color=112,111,110
+ColorAmount=0.025000000000000001
+ColorEffect=2
+ContrastAmount=0.10000000000000001
+ContrastEffect=2
+Enable=false
 IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=144,80,84
-BackgroundNormal=49, 50, 68
-DecorationFocus=185,94,92
-DecorationHover=185,94,92
-ForegroundActive=185,94,92
-ForegroundInactive=166, 173, 200
-ForegroundLink=185,94,92
-ForegroundNegative=243, 139, 168
-ForegroundNeutral=249, 226, 175
-ForegroundNormal=205, 214, 244
-ForegroundPositive=166, 227, 161
-ForegroundVisited=203, 166, 247
+BackgroundAlternate=155,18,33
+BackgroundNormal=28,33,36
+DecorationFocus=210,12,32
+DecorationHover=210,12,32
+ForegroundActive=210,12,32
+ForegroundInactive=102,106,115
+ForegroundLink=210,12,32
+ForegroundNegative=246,126,125
+ForegroundNeutral=247,159,121
+ForegroundNormal=118,119,122
+ForegroundPositive=202,231,185
+ForegroundVisited=82,148,226
 
 [Colors:Complementary]
-BackgroundAlternate=17, 17, 27
-BackgroundNormal=24, 24, 37
-DecorationFocus=185,94,92
-DecorationHover=185,94,92
-ForegroundActive=185,94,92
-ForegroundInactive=166, 173, 200
-ForegroundLink=185,94,92
-ForegroundNegative=243, 139, 168
-ForegroundNeutral=249, 226, 175
-ForegroundNormal=205, 214, 244
-ForegroundPositive=166, 227, 161
-ForegroundVisited=203, 166, 247
-
-[Colors:Header]
-BackgroundAlternate=17, 17, 27
-BackgroundNormal=24, 24, 37
-DecorationFocus=185,94,92
-DecorationHover=185,94,92
-ForegroundActive=185,94,92
-ForegroundInactive=166, 173, 200
-ForegroundLink=185,94,92
-ForegroundNegative=243, 139, 168
-ForegroundNeutral=249, 226, 175
-ForegroundNormal=205, 214, 244
-ForegroundPositive=166, 227, 161
-ForegroundVisited=203, 166, 247
+DecorationFocus=210,12,32
+DecorationHover=210,12,32
+ForegroundActive=210,12,32
+ForegroundLink=210,12,32
 
 [Colors:Selection]
-BackgroundAlternate=138,74,78
-BackgroundNormal=138,74,78
-DecorationFocus=185,94,92
-DecorationHover=185,94,92
-ForegroundActive=185,94,92
+BackgroundAlternate=154,17,32
+BackgroundNormal=154,17,32
+DecorationFocus=210,12,32
+DecorationHover=210,12,32
+ForegroundActive=210,12,32
 ForegroundInactive=255,255,255
-ForegroundLink=185,94,92
-ForegroundNegative=243, 139, 168
-ForegroundNeutral=249, 226, 175
+ForegroundLink=210,12,32
+ForegroundNegative=246,126,125
+ForegroundNeutral=247,159,121
 ForegroundNormal=255,255,255
-ForegroundPositive=166, 227, 161
-ForegroundVisited=203, 166, 247
+ForegroundPositive=202,231,185
+ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
-BackgroundAlternate=27,25,35
-BackgroundNormal=30, 30, 46
-DecorationFocus=185,94,92
-DecorationHover=185,94,92
-ForegroundActive=185,94,92
-ForegroundInactive=166, 173, 200
-ForegroundLink=185,94,92
-ForegroundNegative=243, 139, 168
-ForegroundNeutral=249, 226, 175
-ForegroundNormal=205, 214, 244
-ForegroundPositive=166, 227, 161
-ForegroundVisited=203, 166, 247
+BackgroundAlternate=47,52,63
+BackgroundNormal=53,57,69
+DecorationFocus=210,12,32
+DecorationHover=210,12,32
+ForegroundActive=210,12,32
+ForegroundInactive=102,106,115
+ForegroundLink=210,12,32
+ForegroundNegative=246,126,125
+ForegroundNeutral=247,159,121
+ForegroundNormal=211,218,227
+ForegroundPositive=202,231,185
+ForegroundVisited=82,148,226
 
 [Colors:View]
-BackgroundAlternate=24, 24, 37
-BackgroundNormal=30, 30, 46
-DecorationFocus=185,94,92
-DecorationHover=185,94,92
-ForegroundActive=185,94,92
-ForegroundInactive=166, 173, 200
-ForegroundLink=185,94,92
-ForegroundNegative=243, 139, 168
-ForegroundNeutral=249, 226, 175
-ForegroundNormal=205, 214, 244
-ForegroundPositive=166, 227, 161
-ForegroundVisited=203, 166, 247
+BackgroundAlternate=36,41,46
+BackgroundNormal=26,30,33
+DecorationFocus=210,12,32
+DecorationHover=210,12,32
+ForegroundActive=210,12,32
+ForegroundInactive=102,106,115
+ForegroundLink=210,12,32
+ForegroundNegative=246,126,125
+ForegroundNeutral=247,159,121
+ForegroundNormal=118,119,122
+ForegroundPositive=202,231,185
+ForegroundVisited=124,183,255
 
 [Colors:Window]
-BackgroundAlternate=17, 17, 27
-BackgroundNormal=24, 24, 37
-DecorationFocus=185,94,92
-DecorationHover=185,94,92
-ForegroundActive=185,94,92
-ForegroundInactive=166, 173, 200
-ForegroundLink=185,94,92
-ForegroundNegative=243, 139, 168
-ForegroundNeutral=249, 226, 175
-ForegroundNormal=205, 214, 244
-ForegroundPositive=166, 227, 161
-ForegroundVisited=203, 166, 247
+BackgroundAlternate=47,52,63
+BackgroundNormal=28,33,36
+DecorationFocus=210,12,32
+DecorationHover=210,12,32
+ForegroundActive=210,12,32
+ForegroundInactive=102,106,115
+ForegroundLink=210,12,32
+ForegroundNegative=246,126,125
+ForegroundNeutral=247,159,121
+ForegroundNormal=118,119,122
+ForegroundPositive=202,231,185
+ForegroundVisited=246,126,125
 
 [DirSelect Dialog]
 DirSelectDialog Size=978,574
-History Items[$e]=file:$HOME/Desktop/test,file:$HOME/Desktop/test,file:$HOME/Desktop,file:$HOME/Desktop,file:///mnt/MINE/backup/Projects/Random Projects/timeTracker,file:///mnt/MINE/backup/Projects/Random Projects/kawaiidoro,file:///mnt/MINE/Music,file:$HOME/Desktop/type casting.py,file:$HOME/Desktop,file:$HOME,file:$HOME/Desktop,file:$HOME,file:///mnt/SDA2/Daily Notes Template,file:$HOME/Downloads,file:$HOME/Downloads,file:///mnt/MINE/wallpapers,file:///mnt/MINE/backup/Projects/Random Projects/topclassicanime,file:///mnt/SDA2/My-PKM-copy
+History Items[$e]=file:///mnt/MINE/wallpapers,file:$HOME/Desktop/test,file:$HOME/Desktop/test,file:$HOME/Desktop,file:$HOME/Desktop,file:///mnt/MINE/backup/Projects/Random Projects/timeTracker,file:///mnt/MINE/backup/Projects/Random Projects/kawaiidoro,file:///mnt/MINE/Music,file:$HOME/Desktop/type casting.py,file:$HOME/Desktop,file:$HOME,file:$HOME/Desktop,file:$HOME,file:///mnt/SDA2/Daily Notes Template,file:$HOME/Downloads,file:$HOME/Downloads,file:///mnt/MINE/backup/Projects/Random Projects/topclassicanime,file:///mnt/SDA2/My-PKM-copy
 
 [General]
-AccentColor=185,94,92
+AccentColor=210,12,32
 BrowserApplication=appimagekit_b2276624cee65df64990f8bd57297277-Thorium_Browser.desktop
-ColorSchemeHash=23efa6ab1a034fddc9e214701e31126300e8cb97
+ColorScheme=Sweet-Mars
+ColorSchemeHash=a83fac1837512fb1b336b926abd6e3d275025bf1
 LastUsedCustomAccentColor=233,61,88
 accentColorFromWallpaper=true
 fixed=FiraCode Nerd Font Mono,10,-1,5,50,0,0,0,0,0
@@ -141,8 +120,8 @@ toolBarFont=Fira Sans,10,-1,5,50,0,0,0,0,0
 Theme=PlasmaXDark
 
 [KDE]
-LookAndFeelPackage=Catppuccin-Mocha-Red
-widgetStyle=kvantum-dark
+LookAndFeelPackage=Sweet-Mars
+widgetStyle=Windows
 
 [KFileDialog Settings]
 Allow Expansion=false
@@ -170,13 +149,16 @@ ScreenScaleFactors=LVDS-1=1;VGA-1=1;HDMI-1=1;DP-1=1;
 [KShortcutsDialog Settings]
 Dialog Size=600,480
 
+[PreviewSettings]
+MaximumRemoteSize=0
+
 [WM]
-activeBackground=30,30,46
-activeBlend=205,214,244
+activeBackground=47,52,63
+activeBlend=47,52,63
 activeFont=Fira Sans,10,-1,5,75,0,0,0,0,0,Bold
-activeForeground=205,214,244
+activeForeground=211,218,227
 frame=61,174,233
-inactiveBackground=17,17,27
-inactiveBlend=166,173,200
-inactiveForeground=166,173,200
+inactiveBackground=47,52,63
+inactiveBlend=47,52,63
+inactiveForeground=102,106,115
 inactiveFrame=239,240,241

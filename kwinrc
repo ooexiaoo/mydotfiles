@@ -67,7 +67,7 @@ TransitionTime=60
 
 [Plugins]
 autotileEnabled=true
-blurEnabled=false
+blurEnabled=true
 contrastEnabled=false
 diminactiveEnabled=true
 forceblurEnabled=true
@@ -142,4 +142,3 @@ BorderSize=None
 BorderSizeAuto=false
 ButtonsOnLeft=XAI
 ButtonsOnRight=SHM
-theme=__aurorae__svg__Dr460nized-Rounded

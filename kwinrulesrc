@@ -9,6 +9,14 @@ noborderrule=2
 wmclass=noisetorch
 wmclassmatch=1
 
+[0c778520-a947-4714-afb5-5bff5a14f7c7]
+Description=Application settings for plasma-systemmonitor
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=plasma-systemmonitor
+wmclassmatch=1
+
 [1]
 Description=Application settings for mongodb compass
 clientmachine=localhost
@@ -282,8 +290,8 @@ wmclass=scrcpy
 wmclassmatch=1
 
 [General]
-count=20
-rules=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+count=21
+rules=0c778520-a947-4714-afb5-5bff5a14f7c7,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
 
 [addfd60f-5757-4c28-bc82-94c3c2197e1d]
 Description=Application settings for spotify

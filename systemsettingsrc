@@ -1,15 +1,15 @@
 [KFileDialog Settings]
-Recent Files[$e]=wallhaven-83ylpy.png,file:///mnt/MINE/wallpapers/wavy_lines_v01_5120x2880.png,file:///mnt/MINE/wallpapers/Arch Linux.png,file:///mnt/MINE/wallpapers/cat-waves.png,file:///mnt/MINE/wallpapers/wallhaven-x67j2o.png,file:///mnt/MINE/wallpapers/wallhaven-287v59.jpg,file:///mnt/MINE/wallpapers/New/3490520.png,file:///mnt/MINE/wallpapers/Mobile Wallpapers/peakpx (1).jpg,file:///mnt/MINE/wallpapers/wallhaven-85xjy1.jpg,file:///mnt/MINE/wallpapers/wallhaven-e7eexw.jpg,file:///mnt/MINE/wallpapers/WHY THO/Red bikini.jpg,file:///mnt/MINE/wallpapers/wallhaven-83ylpy.png,file:///mnt/MINE/wallpapers/wp8843141-garuda-linux-wallpapers.png,file:///mnt/MINE/wallpapers/kuvsnov ilya vaporwave.webp
+Recent Files[$e]=wallhaven-83ylpy.png,file:///mnt/MINE/wallpapers/Ilya Kuvshinov.png,file:///mnt/MINE/wallpapers/wavy_lines_v01_5120x2880.png,file:///mnt/MINE/wallpapers/Arch Linux.png,file:///mnt/MINE/wallpapers/cat-waves.png,file:///mnt/MINE/wallpapers/wallhaven-x67j2o.png,file:///mnt/MINE/wallpapers/wallhaven-287v59.jpg,file:///mnt/MINE/wallpapers/New/3490520.png,file:///mnt/MINE/wallpapers/Mobile Wallpapers/peakpx (1).jpg,file:///mnt/MINE/wallpapers/wallhaven-85xjy1.jpg,file:///mnt/MINE/wallpapers/wallhaven-e7eexw.jpg,file:///mnt/MINE/wallpapers/WHY THO/Red bikini.jpg,file:///mnt/MINE/wallpapers/wallhaven-83ylpy.png,file:///mnt/MINE/wallpapers/wp8843141-garuda-linux-wallpapers.png,file:///mnt/MINE/wallpapers/kuvsnov ilya vaporwave.webp
 Recent URLs[$e]=file:///mnt/MINE/wallpapers/,file:///mnt/MINE/,file:$HOME/,file:$HOME/Documents/,file:///mnt/MINE/backup/,file:///mnt/MINE/wallpapers/WHY THO/,file:$HOME/Pictures/,file:///mnt/MINE/wallpapers/Mobile Wallpapers/,file:///mnt/MINE/wallpapers/New/,file:///mnt/MINE/wallpapers/SDDM LOGIN THEME ASSESTS/
 detailViewIconSize=16
-iconViewIconSize=256
+iconViewIconSize=128
 
 [MainWindow]
-1920x1080 screen: Height=990
-1920x1080 screen: Width=1356
-1920x1080 screen: XPosition=282
-1920x1080 screen: YPosition=85
+1920x1080 screen: Height=998
+1920x1080 screen: Width=952
+1920x1080 screen: XPosition=963
+1920x1080 screen: YPosition=77
 LVDS-1=LVDS-1
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABUwAAAPeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAPmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
