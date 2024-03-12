@@ -2,7 +2,8 @@
 update_info=kxkb.upd:remove-empty-lists,kxkb.upd:add-back-resetoptions,kxkb_variants.upd:split-variants
 
 [Layout]
-DisplayNames=,
-LayoutList=us,us
+DisplayNames=
+LayoutList=us
 Use=true
-VariantList=,colemak_dh
+VariantList=
+

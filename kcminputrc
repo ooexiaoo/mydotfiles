@@ -7,9 +7,11 @@ NumLock=0
 RepeatDelay=250
 RepeatRate=25
 
+[Libinput][2][8][AlpsPS/2 ALPS GlidePoint]
+Enabled=false
+
 [Mouse]
 X11LibInputXAccelProfileFlat=true
-cursorTheme=Nordic-cursors
 
 [Tmp]
 update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize

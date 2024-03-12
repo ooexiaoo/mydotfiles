@@ -15,26 +15,26 @@ State=AAAA/wAAAAD9AAAAAAAAB3YAAAO0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Desktop/code.png
-File10[$e]=$HOME/Desktop/ezgif.com-optiwebp.webp
-File2[$e]=$HOME/Desktop/Screenshot_20240228_192024.png
-File3[$e]=$HOME/Desktop/Screenshot_20240228_192413.png
-File4[$e]=/mnt/MINE/wallpapers/Random Images/nice puma clothes
-File5[$e]=/mnt/MINE/wallpapers/Writing/wp7110681-writers-wallpapers.png
-File6[$e]=/mnt/MINE/wallpapers/Writing/wp7110622-writers-wallpapers.jpg
-File7[$e]=/mnt/MINE/wallpapers/Writing/wp7110647-writers-wallpapers.jpg
-File8[$e]=/mnt/MINE/wallpapers/Writing/wp89714-writers-wallpapers.jpg
-File9[$e]=/mnt/SDA2/My-PKM-copy/🛢️ Resources/📁 Files/KawaiiDoro/kawaiidorogirl
-Name1[$e]=code.png
-Name10[$e]=ezgif.com-optiwebp.webp
-Name2[$e]=Screenshot_20240228_192024.png
-Name3[$e]=Screenshot_20240228_192413.png
-Name4[$e]=nice puma clothes
-Name5[$e]=wp7110681-writers-wallpapers.png
-Name6[$e]=wp7110622-writers-wallpapers.jpg
-Name7[$e]=wp7110647-writers-wallpapers.jpg
-Name8[$e]=wp89714-writers-wallpapers.jpg
-Name9[$e]=kawaiidorogirl
+File1[$e]=$HOME/Desktop/Screenshot_20240228_192413.png
+File10[$e]=$HOME/Pictures/wallpapers/anime-girl-abyss.png
+File2[$e]=/mnt/MINE/wallpapers/Random Images/nice puma clothes
+File3[$e]=/mnt/MINE/wallpapers/Writing/wp7110681-writers-wallpapers.png
+File4[$e]=/mnt/MINE/wallpapers/Writing/wp7110622-writers-wallpapers.jpg
+File5[$e]=/mnt/MINE/wallpapers/Writing/wp7110647-writers-wallpapers.jpg
+File6[$e]=/mnt/MINE/wallpapers/Writing/wp89714-writers-wallpapers.jpg
+File7[$e]=/mnt/SDA2/My-PKM-copy/🛢️ Resources/📁 Files/KawaiiDoro/kawaiidorogirl
+File8[$e]=$HOME/Desktop/ezgif.com-optiwebp.webp
+File9[$e]=$HOME/Pictures/wallpapers/CuteCat.png
+Name1[$e]=Screenshot_20240228_192413.png
+Name10[$e]=anime-girl-abyss.png
+Name2[$e]=nice puma clothes
+Name3[$e]=wp7110681-writers-wallpapers.png
+Name4[$e]=wp7110622-writers-wallpapers.jpg
+Name5[$e]=wp7110647-writers-wallpapers.jpg
+Name6[$e]=wp89714-writers-wallpapers.jpg
+Name7[$e]=kawaiidorogirl
+Name8[$e]=ezgif.com-optiwebp.webp
+Name9[$e]=CuteCat.png
 
 [SideBar]
-InformationSplitterSizes=217,240
+InformationSplitterSizes=216,239

@@ -88,7 +88,9 @@ maximized-window-gapEnabled=true
 overviewEnabled=true
 poloniumEnabled=false
 sheetEnabled=true
+squashEnabled=false
 tilegapsEnabled=true
+translucencyEnabled=true
 wobblywindowsEnabled=true
 
 [Script-forceblur]
@@ -133,13 +135,21 @@ padding=4
 [Tiling][ccd244ca-5575-569f-a8c9-ce17c79b0288]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.5},{"width":0.5}]}
 
+[Tiling][de273ab6-c6bb-5970-ab7b-83e866e3a88a]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Wayland]
+InputMethod[$e]=/usr/share/applications/org.fcitx.Fcitx5.desktop
+
 [Windows]
 BorderlessMaximizedWindows=false
 RollOverDesktops=true
+
+[Xwayland]
+Scale=1
 
 [org.kde.kdecoration2]
 BorderSize=None
 BorderSizeAuto=false
 ButtonsOnLeft=XAI
 ButtonsOnRight=SHM
-theme=__aurorae__svg__Sweet-Dark-transparent

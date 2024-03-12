@@ -19,6 +19,7 @@ application/x-extension-xhtml=userapp-Floorp-JJFCH2.desktop;
 application/x-extension-xht=userapp-Floorp-JJFCH2.desktop;
 x-scheme-handler/mongodb=MongoDB Compass.desktop;
 x-scheme-handler/mongodb+srv=MongoDB Compass.desktop;
+x-scheme-handler/etcher=appimagekit_40cf8d1c172e8d88687ef70315a67ad1-balenaEtcher.desktop;
 
 [Default Applications]
 application/x-desktop=com.usebottles.bottles.desktop;

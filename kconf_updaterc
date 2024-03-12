@@ -1,9 +1,9 @@
 updateInfoAdded=true
 
 [ark.upd]
-ctime=1708004876
+ctime=1710223678
 done=add-hamburgermenu-to-toolbar
-mtime=1707909544
+mtime=1708595112
 
 [breezehighcontrasttobreezedark.upd]
 ctime=1702223776
@@ -31,14 +31,14 @@ done=PlasmaVolume_DisableKMixAutostart
 mtime=1701816651
 
 [dolphin_detailsmodesettings.upd]
-ctime=1708004878
+ctime=1710223718
 done=rename-leading-padding,move-content-display
-mtime=1707902946
+mtime=1709975763
 
 [filepicker.upd]
-ctime=1707979183
+ctime=1710223702
 done=filepicker-remove-old-previews-entry
-mtime=1706981421
+mtime=1708550509
 
 [fonts_akregator.upd]
 ctime=1702223808
@@ -61,9 +61,9 @@ done=Plasma_Fonts_Kate
 mtime=1701812982
 
 [gtkconfig.upd]
-ctime=1702223801
+ctime=1710223775
 done=gtk_theme,dont_use_gtk_css_for_window_decorations,remove_deprecated_gtk4_option
-mtime=1701815483
+mtime=1709725532
 
 [gwenview.upd]
 ctime=1708004879
@@ -96,9 +96,9 @@ done=kcminputrc_migrate_key_repeat
 mtime=1701816132
 
 [konsole.upd]
-ctime=1708004881
+ctime=1710223780
 done=konsole_globalaccel,add-hamburgermenu-to-toolbar
-mtime=1707910121
+mtime=1708595746
 
 [krunnerglobalshortcuts2.upd]
 ctime=1702902571
@@ -121,9 +121,9 @@ done=ksmserver_update_loginMode_value_default_enum
 mtime=1701816132
 
 [kwin.upd]
-ctime=1704781935
+ctime=1710223739
 done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js,auto-bordersize,animation-speed,desktop-grid-click-behavior,no-swap-encourage,make-translucency-effect-disabled-by-default,remove-flip-switch-effect,remove-cover-switch-effect,remove-cubeslide-effect,remove-xrender-backend,enable-scale-effect-by-default,overview-group-plugin-id,animation-speed-cleanup,replace-cascaded-zerocornered
-mtime=1704459213
+mtime=1710064244
 
 [kwinrules.upd]
 ctime=1704781935
@@ -140,15 +140,39 @@ ctime=1702223865
 done=split-variants
 mtime=1701816132
 
+[migrate-calendar-to-plugin-id.upd]
+ctime=1710223744
+mtime=1710195489
+
 [okular.upd]
-ctime=1708004881
+ctime=1710223826
 done=annotation-toolbar,builtin-annotations
-mtime=1707905975
+mtime=1709756030
+
+[plasma6.0-remove-dpi-settings.upd]
+ctime=1710223744
+mtime=1710195489
+
+[plasma6.0-remove-old-shortcuts.upd]
+ctime=1710223744
+mtime=1710195489
 
 [plasmashell-5.27-use-panel-thickness-in-default-group.upd]
 ctime=1702902571
 done=plasmashell-5.27-use-panel-thickness-in-default-group
 mtime=1702320594
+
+[plasmashell-6.0-keep-custom-position-of-panels.upd]
+ctime=1710223744
+mtime=1710195489
+
+[plasmashell-6.0-keep-default-floating-setting-for-plasma-5-panels.upd]
+ctime=1710223744
+mtime=1710195489
+
+[spectacle.upd]
+ctime=1710223840
+mtime=1708673280
 
 [spectacle_clipboard.upd]
 ctime=1708004882
