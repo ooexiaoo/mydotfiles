@@ -334,9 +334,18 @@ wmclass=navigator firedragon
 wmclasscomplete=true
 wmclassmatch=1
 
+[9fbbe3bc-afa9-4348-8880-548ee9b298c3]
+Description=Application settings for Thorium-browser
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=thorium-browser Thorium-browser
+wmclasscomplete=true
+wmclassmatch=1
+
 [General]
-count=23
-rules=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+count=24
+rules=9fbbe3bc-afa9-4348-8880-548ee9b298c3,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
 
 [addfd60f-5757-4c28-bc82-94c3c2197e1d]
 Description=Application settings for spotify
