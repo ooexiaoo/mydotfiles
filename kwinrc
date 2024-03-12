@@ -142,3 +142,4 @@ BorderSize=None
 BorderSizeAuto=false
 ButtonsOnLeft=XAI
 ButtonsOnRight=SHM
+theme=__aurorae__svg__Sweet-Dark-transparent

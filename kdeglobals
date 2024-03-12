@@ -121,7 +121,7 @@ Theme=PlasmaXDark
 
 [KDE]
 LookAndFeelPackage=Sweet-Mars
-widgetStyle=Windows
+widgetStyle=Breeze
 
 [KFileDialog Settings]
 Allow Expansion=false
